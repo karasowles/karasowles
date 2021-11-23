@@ -1,4 +1,4 @@
-## Welcome 👋 I'm Kara. Learn more about me below.
+## Welcome 👋 I'm Kara.
 
 ### **My day-to-day:**
 
