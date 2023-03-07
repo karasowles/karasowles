@@ -1,4 +1,6 @@
 ## Welcome 👋 I'm Kara.
+I work at GitHub, helping to support open source maintainers on our platform! Reach out anytime ✨
+
 
 ### **My day-to-day:**
 
