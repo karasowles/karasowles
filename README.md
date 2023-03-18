@@ -12,4 +12,4 @@ I work at GitHub, helping to support open source maintainers on our platform! Re
 
 ### **My personal life:**
 
-<img width="315" alt="screenshot2" src="https://user-images.githubusercontent.com/66702800/226072496-17496149-3b3c-42f4-b350-c1a797416da9.png">
+<img width="300" alt="screenshot2" src="https://user-images.githubusercontent.com/66702800/226072496-17496149-3b3c-42f4-b350-c1a797416da9.png">
