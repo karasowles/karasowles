@@ -10,4 +10,6 @@ I work at GitHub, helping to support open source maintainers on our platform! Re
 
 <img width="500" alt="screenshot2" src="https://user-images.githubusercontent.com/66702800/138978004-8e53f492-5b1b-49a3-85e1-231c256bcfcd.jpeg">
 
+### **My personal life:**
 
+![ship-it](https://user-images.githubusercontent.com/66702800/226072496-17496149-3b3c-42f4-b350-c1a797416da9.png)
