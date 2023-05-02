@@ -1,6 +1,11 @@
 ## Welcome 👋 I'm Kara.
 I work at GitHub, helping to support open source maintainers on our platform! Reach out anytime ✨
 
+## Maintainer Resources
+- [ ] [Maintainer Community](https://maintainers.github.com/)
+- [ ] [Maintainer Month](https://maintainermonth.github.com/)
+- [ ] [Open Source Guides](https://opensource.guide/)
+- [ ] [GitHub Accelerator](https://accelerator.github.com/) and the [2023 Cohort] that I'm leading(https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/)
 
 ### **My day-to-day:**
 
