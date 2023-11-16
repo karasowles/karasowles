@@ -5,7 +5,7 @@ I work at GitHub, helping to support open source maintainers on our platform! Re
 - [ ] [Maintainer Community](https://maintainers.github.com/)
 - [ ] [Maintainer Month](https://maintainermonth.github.com/)
 - [ ] [Open Source Guides](https://opensource.guide/)
-- [ ] [GitHub Accelerator](https://accelerator.github.com/) and the [2023 Cohort](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/) that I'm leading!
+- [ ] [GitHub Accelerator](https://accelerator.github.com/) and the [2023 Cohort](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/) that I led!
 
 ## What else❓
 
@@ -16,6 +16,8 @@ I work at GitHub, helping to support open source maintainers on our platform! Re
 ### **Where I work:**
 
 <img width="500" alt="screenshot2" src="https://user-images.githubusercontent.com/66702800/138978004-8e53f492-5b1b-49a3-85e1-231c256bcfcd.jpeg">
+<img width="500" alt="hardatwork" src="https://github.com/karasowles/karasowles/assets/66702800/a5812e4e-3b57-4cde-a671-af1d6039081a">
+
 
 ### **My personal life:**
 
