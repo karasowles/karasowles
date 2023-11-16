@@ -9,7 +9,7 @@ I work at GitHub, helping to support open source maintainers on our platform! Re
 
 ## What else❓
 
-### **My day-to-day:**
+### **Problems I solve:**
 
 <img width="530" alt="screenshot1" src="https://user-images.githubusercontent.com/66702800/138978067-82ba5571-89f7-46b9-a928-2abcbd0c23d3.png">
 
