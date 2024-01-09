@@ -1,6 +1,8 @@
 ## Welcome 👋 I'm Kara.
 I work at GitHub, helping to support open source maintainers on our platform! Reach out anytime ✨
 
+<img width="850" alt="Screenshot 2024-01-09 at 10 59 27 AM" src="https://github.com/karasowles/karasowles/assets/66702800/7c0857ee-8ca8-4bee-8cf5-b4b72fe0b916">
+
 ## Maintainer Resources 📝
 - [ ] [Maintainer Community](https://maintainers.github.com/)
 - [ ] [Maintainer Month](https://maintainermonth.github.com/)
