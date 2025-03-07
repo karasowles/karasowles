@@ -4,10 +4,11 @@ I work at GitHub, helping to support open source maintainers on our platform! Re
 <img width="850" alt="Screenshot 2024-01-09 at 10 59 27 AM" src="https://github.com/karasowles/karasowles/assets/66702800/7c0857ee-8ca8-4bee-8cf5-b4b72fe0b916">
 
 ## Maintainer Resources 📝
-- [ ] [Maintainer Community](https://maintainers.github.com/)
-- [ ] [Maintainer Month](https://maintainermonth.github.com/)
+- [ ] [Maintainer Community - apply here!](https://maintainers.github.com/)
+- [ ] [Maintainer Month - every May](https://maintainermonth.github.com/)
 - [ ] [Open Source Guides](https://opensource.guide/)
-- [ ] [GitHub Accelerator](https://accelerator.github.com/) and the [2023 Cohort](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/) that I led!
+
+I also ran the [original cohort](https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/) of the [GitHub Accelerator](https://accelerator.github.com/), which has evolved into GitHub's [Secure Open Source Fund](https://resources.github.com/github-secure-open-source-fund/).
 
 ## What else❓
 
